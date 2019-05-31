@@ -124,6 +124,11 @@ ol {
   color: #248c6b;
 }
 
+ul {
+  font-family: 'Space Mono', monospace;
+  color: #248c6b;
+}
+
 
 @media screen and (min-width: 700px) {
 
