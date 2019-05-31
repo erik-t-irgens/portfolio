@@ -56,7 +56,9 @@
 
 }
 
-
+a:hover {
+  color: white;
+}
 
 body {
   background-image: url("https://pixelz.cc/wp-content/uploads/2018/10/ghost-nebula-uhd-4k-wallpaper.jpg");
