@@ -1,8 +1,16 @@
+#containercontent {
+  background-color: #2d2d2d;
+}
+
 #header {
   text-align: center;
   text-decoration: overline;
-  text-shadow: 4px 4px #bc8640;
-  color: lightgray;
+  text-shadow: 4px 4px #248c6b;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: #2d2d2d;
 }
 
 #headerimage {
@@ -11,6 +19,12 @@
   margin-right: auto;
 }
 
-.TitleElement {
-  float: left;
+@media screen and (min-width: 700px) {
+
+}
+
+@media screen and (max-width: 550px) and (min-width: 200px) {
+  #header {
+    font-size: small;
+  }
 }
