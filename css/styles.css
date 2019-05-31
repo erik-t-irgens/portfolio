@@ -59,8 +59,27 @@
 blockquote.skills {
   color: white;
   font-family: 'Space Mono', monospace;
-  background-color: #2d2d2d;
+  background-color: #248c6b;
   margin-top: 5px;
+}
+
+blockquote.experiences {
+  color: white;
+  font-family: 'Space Mono', monospace;
+  background-color: #248c6b;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.experiencesheaders {
+  text-align: center;
+  text-shadow: 2px 2px #248c6b;
+  color: white;
+  font-family: 'Space Mono', monospace;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #2d2d2d;
+  font-weight: bolder;
 }
 
 a:hover {
