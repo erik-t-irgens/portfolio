@@ -1,0 +1,17 @@
+#header {
+  float: left;
+  text-align: center;
+  text-decoration: overline;
+  text-shadow: 4px 4px #bc8640;
+  color: lightgray;
+}
+
+#headerimage {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.TitleElement {
+  float: left;
+}
