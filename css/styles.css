@@ -56,6 +56,13 @@
 
 }
 
+blockquote.skills {
+  color: white;
+  font-family: 'Space Mono', monospace;
+  background-color: #2d2d2d;
+  margin-top: 5px;
+}
+
 a:hover {
   color: white;
 }
