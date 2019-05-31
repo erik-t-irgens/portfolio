@@ -13,6 +13,8 @@ _This website contains several pages that are to serve the purpose of displaying
 * _Clone the repository from https://github.com/erik-t-irgens/portfolio to a dir of your choosing_
 * _Open index.html within the "portfolio" directory to begin perusal._
 
+* _Alternatively visit https://erik-t-irgens.github.io/portfolio directly to begin browsing._
+
 ## Known Bugs
 
 _Certain background elements are meant to change or override others, but there seems to be something I'm missing to make that happen._
