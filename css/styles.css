@@ -34,6 +34,14 @@
   background-color: #2d2d2d;
 }
 
+#mainlinkstyle {
+
+}
+
+#mainlinkstyle:hover {
+  background-color: orange;
+}
+
 #link-about-nav {
   text-align: center;
   color: white;
@@ -41,6 +49,7 @@
   font-weight: bold;
   background-color: #2d2d2d;
 }
+
 
 #descriptor {
 
@@ -63,12 +72,20 @@ blockquote.skills {
   margin-top: 5px;
 }
 
+blockquote.skills:hover {
+  background-color: orange;
+}
+
 blockquote.experiences {
   color: white;
   font-family: 'Space Mono', monospace;
   background-color: #248c6b;
   margin-top: 5px;
   text-align: center;
+}
+
+blockquote.experiences:hover {
+  background-color: orange;
 }
 
 .experiencesheaders {
@@ -90,6 +107,10 @@ blockquote.experiences {
   text-align: center;
 }
 
+.musicpieces:hover {
+  background-color: orange;
+}
+
 a:hover {
   color: white;
 }
@@ -103,9 +124,6 @@ ol {
   color: #248c6b;
 }
 
-p.hoversecret {
-  text-transform: full-width;
-}
 
 @media screen and (min-width: 700px) {
 
