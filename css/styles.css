@@ -98,6 +98,15 @@ body {
   background-image: url("https://pixelz.cc/wp-content/uploads/2018/10/ghost-nebula-uhd-4k-wallpaper.jpg");
 }
 
+ol {
+  font-family: 'Space Mono', monospace;
+  color: #248c6b;
+}
+
+p.hoversecret {
+  text-transform: full-width;
+}
+
 @media screen and (min-width: 700px) {
 
 }
