@@ -82,6 +82,14 @@ blockquote.experiences {
   font-weight: bolder;
 }
 
+.musicpieces {
+  color: white;
+  font-family: 'Space Mono', monospace;
+  background-color: #248c6b;
+  margin-top: 5px;
+  text-align: center;
+}
+
 a:hover {
   color: white;
 }
