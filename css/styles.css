@@ -4,19 +4,38 @@
 
 #header {
   text-align: center;
-  text-decoration: overline;
   text-shadow: 4px 4px #248c6b;
   color: white;
   font-family: 'Press Start 2P', cursive;
+  font-family: 'Space Mono', monospace;
   margin-top: 100px;
   margin-bottom: 100px;
   background-color: #2d2d2d;
+}
+
+#header:hover {
+  text-shadow: 4px 4px white;
+  color: #248c6b;
 }
 
 #headerimage {
   width: 200px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#link-main-nav {
+  text-align: center;
+  color: white;
+  font-family: 'Space Mono', monospace;
+  font-weight: bold;
+  margin-top: 250px;
+  margin-bottom: 100px;
+  background-color: #2d2d2d;
+}
+
+body {
+  background-image: url("https://pixelz.cc/wp-content/uploads/2018/10/ghost-nebula-uhd-4k-wallpaper.jpg");
 }
 
 @media screen and (min-width: 700px) {
